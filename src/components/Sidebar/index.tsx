@@ -39,7 +39,7 @@ export const Sidebar = () => {
                 </a>
             </li>
             <li>
-                <a target="_blank" rel='noreferrer' href="https://linkedin.com/in/adarshi-perera">
+                <a target="_blank" rel='noreferrer' href="https://github.com/adarshi96">
                     <FontAwesomeIcon icon={faGithub} color='#4d4d4e'/>
                 </a>
             </li>
